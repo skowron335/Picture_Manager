@@ -29,7 +29,6 @@
 		else if ($connection)
 		{
 			$image = addslashes($_FILES['picture']['tmp_name']);
-			$name  = addslashes($_FILES['picture']['tmp_name']);
 			$image = file_get_contents($image);
 			$image = base64_encode($image);
 		

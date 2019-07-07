@@ -18,7 +18,7 @@
 			</div>
 			
 			<div class="option">
-				<a href="https://google.com/"><div class="button">Opuść stronę</div></a>
+				<a href="https://duckduckgo.com/"><div class="button">Opuść stronę</div></a>
 			</div>
 		</section>
 	</body>
